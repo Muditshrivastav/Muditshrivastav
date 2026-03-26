@@ -52,30 +52,31 @@ I enjoy building real-world AI applications using modern tools like **TensorFlow
 * Applied **data augmentation & preprocessing**
 * Achieved high accuracy with limited dataset
 
-🔗 Repo: https://github.com/MuditShrivastav
+🔗 Repo: https://github.com/Muditshrivastav/Ai-ml
 
 ---
 
-### 💳 Credit Card Fraud Detection
+🤖 GitHub AI Agent
 
-* Built ML models using:
+An intelligent AI agent designed to automate and streamline GitHub workflows.
 
-  * Random Forest
-  * Logistic Regression
-* Solved class imbalance using **SMOTE**
-* Evaluated using **Precision, Recall, F1-score**
-
-🔗 Repo: https://github.com/MuditShrivastav
+🚀 Features
+📁 Automatically creates and manages repositories
+🐞 Handles and organizes issues efficiently
+🔄 Reviews and resolves pull requests
+⚡ Improves developer productivity by automating repetitive tasks
 
 ---
 
-### 👁️ Eye Disease Detection
+😊 Facial Emotion Detection
 
-* Developed CNN model using **VGG16**
-* Multi-class classification of eye diseases
-* Optimized for **performance & inference speed**
+A real-time facial emotion detection system that analyzes user expressions through live camera input.
 
-🔗 Repo: https://github.com/MuditShrivastav
+🚀 Features
+📷 Detects faces using live camera feed
+😃 Classifies emotions such as happy, sad, angry, etc.
+⚡ Real-time prediction with instant results
+🧠 Uses pre-trained DeepFace models for accurate analysis
 
 ---
 
