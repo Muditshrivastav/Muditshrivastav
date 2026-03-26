@@ -56,35 +56,35 @@ I enjoy building real-world AI applications using modern tools like **TensorFlow
 
 ---
 
-🤖 GitHub AI Agent
+## 🤖 GitHub AI Agent
 
 An intelligent AI agent designed to automate and streamline GitHub workflows.
 
-🚀 Features
+### 🚀 Features
 
-📁 Automatically creates and manages repositories
+* Automatically creates and manages repositories
 
-🐞 Handles and organizes issues efficiently
+* Handles and organizes issues efficiently
 
-🔄 Reviews and resolves pull requests
+* Reviews and resolves pull requests
 
-⚡ Improves developer productivity by automating repetitive tasks
+* Improves developer productivity by automating repetitive tasks
 
 ---
 
-😊 Facial Emotion Detection
+## 😊 Facial Emotion Detection
 
 A real-time facial emotion detection system that analyzes user expressions through live camera input.
 
-🚀 Features
+### 🚀 Features
 
-📷 Detects faces using live camera feed
+* Detects faces using live camera feed
 
-😃 Classifies emotions such as happy, sad, angry, etc.
+* Classifies emotions such as happy, sad, angry, etc.
 
-⚡ Real-time prediction with instant results
+* Real-time prediction with instant results
 
-🧠 Uses pre-trained DeepFace models for accurate analysis
+* Uses pre-trained DeepFace models for accurate analysis
 
 ---
 
