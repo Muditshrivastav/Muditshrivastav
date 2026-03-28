@@ -84,6 +84,8 @@ A real-time facial emotion detection system that analyzes user expressions throu
 * Real-time prediction with instant results
 
 * Uses pre-trained **DeepFace** models for accurate analysis
+
+🔗 Repo: https://github.com/Muditshrivastav/Facial-emotion-detection
   
 ---
 
