@@ -67,6 +67,8 @@ A smart recommendation system which recommends you clothes based on your prefere
 * Enabled **content-based filtering** based on product features.
 * Delivered personalized clothing suggestions with high relevance.
 
+🔗 Repo: https://github.com/Muditshrivastav/Fashion-recommendation-system
+
 ---
 
 ## 😊 Facial Emotion Detection
@@ -82,9 +84,7 @@ A real-time facial emotion detection system that analyzes user expressions throu
 * Real-time prediction with instant results
 
 * Uses pre-trained **DeepFace** models for accurate analysis
-
-🔗 Repo: https://github.com/Muditshrivastav/Fashion-recommendation-system
-
+  
 ---
 
 ## 🎓 Education
