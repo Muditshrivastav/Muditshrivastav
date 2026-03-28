@@ -90,8 +90,8 @@ A real-time facial emotion detection system that analyzes user expressions throu
 ## 🎓 Education
 
 **B.Tech in Computer Science (CSIT)**
-Chameli Devi Group of Institutions (CDGI)
-(2023 – Present)
+* Chameli Devi Group of Institutions (CDGI)
+* (2023 – Present)
 
 ---
 
