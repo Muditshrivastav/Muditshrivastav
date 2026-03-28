@@ -56,19 +56,16 @@ I enjoy building real-world AI applications using modern tools like **TensorFlow
 
 ---
 
-## 🤖 GitHub AI Agent
+## 🤖 Fashion Recommendation system
 
-An intelligent AI agent designed to automate and streamline GitHub workflows.
+A smart recommendation system which recommends you clothes based on your preference.
 
 ### 🚀 Features
 
-* Automatically creates and manages repositories
-
-* Handles and organizes issues efficiently
-
-* Reviews and resolves pull requests
-
-* Improves developer productivity by automating repetitive tasks
+* Built a **fashion recommendation system** using **Zara men’s clothing dataset**.
+* Implemented **cosine similarity** for accurate outfit recommendations.
+* Enabled **content-based filtering** based on product features.
+* Delivered personalized clothing suggestions with high relevance.
 
 ---
 
@@ -84,7 +81,9 @@ A real-time facial emotion detection system that analyzes user expressions throu
 
 * Real-time prediction with instant results
 
-* Uses pre-trained DeepFace models for accurate analysis
+* Uses pre-trained **DeepFace** models for accurate analysis
+
+🔗 Repo: https://github.com/Muditshrivastav/Fashion-recommendation-system
 
 ---
 
