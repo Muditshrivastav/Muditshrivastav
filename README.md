@@ -83,9 +83,9 @@ class MuditShrivastav:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/arcade-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/arcade-output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/arcade-output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
