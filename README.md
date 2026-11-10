@@ -73,8 +73,7 @@ class MuditShrivastav:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/stats-output/stats.svg" height="170" alt="GitHub stats">
-  <img src="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/languages-output/languages.svg" height="170" alt="Top languages">
+  <img src="https://raw.githubusercontent.com/Muditshrivastav/Muditshrivastav/main/assets/github_stats.svg" alt="GitHub stats terminal card">
 </p>
 
 ---
